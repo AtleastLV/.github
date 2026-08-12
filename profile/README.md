@@ -5,7 +5,7 @@
 FiveM roleplay community pushing custom scripts, systems, and server tech.
 
 [![Website](https://img.shields.io/badge/website-atleast.lv-2ea44f?style=for-the-badge)](https://atleast.lv)
-[![Discord](https://img.shields.io/badge/discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/XzEzVwhMMX)
+[![Discord](https://img.shields.io/discord/1237809480390152325?style=for-the-badge&logo=discord&logoColor=white&label=discord&color=5865F2)](https://discord.com/invite/XzEzVwhMMX)
 [![Framework](https://img.shields.io/badge/framework-QBox-orange?style=for-the-badge)](https://github.com/Qbox-project)
 [![Lua](https://img.shields.io/badge/lua-blue?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
